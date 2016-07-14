@@ -1,5 +1,6 @@
 # statics
 Honor's Option Project for MSU CE221
+
 This project uses vector algebra and moment concept to find an equivalent replacement wrench for a system of forces.  The IPython notebook shows the code used to both solve for the wrench and generate graphics to represent it.  
 
 Graphics:
